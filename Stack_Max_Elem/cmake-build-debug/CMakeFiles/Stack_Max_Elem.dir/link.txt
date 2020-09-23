@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Stack_Max_Elem.dir/main.cpp.o  -o Stack_Max_Elem 

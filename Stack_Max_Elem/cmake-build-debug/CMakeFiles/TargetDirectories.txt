@@ -1,0 +1,3 @@
+/home/unimind/Documents/Projects/LearnCPP/Hackerrank/Stack_Max_Elem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/unimind/Documents/Projects/LearnCPP/Hackerrank/Stack_Max_Elem/cmake-build-debug/CMakeFiles/Stack_Max_Elem.dir
+/home/unimind/Documents/Projects/LearnCPP/Hackerrank/Stack_Max_Elem/cmake-build-debug/CMakeFiles/edit_cache.dir

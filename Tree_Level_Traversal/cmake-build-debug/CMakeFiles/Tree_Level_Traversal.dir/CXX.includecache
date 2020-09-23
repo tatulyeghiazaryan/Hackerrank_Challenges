@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/unimind/Documents/Projects/LearnCPP/Hackerrank/Tree_Level_Traversal/main.cpp
+bits/stdc++.h
+-
+

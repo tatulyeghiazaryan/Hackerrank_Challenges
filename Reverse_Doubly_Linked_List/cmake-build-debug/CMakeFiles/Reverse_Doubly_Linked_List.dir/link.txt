@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Reverse_Doubly_Linked_List.dir/main.cpp.o  -o Reverse_Doubly_Linked_List 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Least_Common_Ancestor.dir/main.cpp.o  -o Least_Common_Ancestor 
